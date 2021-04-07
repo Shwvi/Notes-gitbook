@@ -1,6 +1,6 @@
 # Table of contents
 
-- [Shwvi's online notes✍︎](README.md)
+- [✎Shwvi's online notes](README.md)
 
 ## Posts
 
