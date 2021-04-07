@@ -9,7 +9,7 @@ title: ✎Shwvi's online notes
 
 ### h3
 
-Hello, I am Shwvi.
+Hello, I am Shwvi. You can access this page at [Shwvi notes](https://github.com/Shwvi/Notes-gitbook).
 
 Eh, I don't know what to say. I create this gitbook to save my online notes which may give you some help.
 
