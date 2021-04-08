@@ -1,10 +1,11 @@
 ---
-description: Hi.
-title: ✎Shwvi's online notes
+description: This is my online notes which will record somthing I encounter daily.
 ---
 
-Hello, I am Shwvi. You can access this page at [Shwvi notes](https://shwvi.gitbook.io/notes/).
+Hello 👋🏻, I am [Shwvi](https://github.com/Shwvi). You can access this page at [Shwvi notes](https://shwvi.gitbook.io/notes/).
 
-Eh, I don't know what to say. I create this gitbook to save my online notes which may give you some help.
+Eh, I use [gitbook]() to record my notes which may give you some help (I hope 🐵).
 
-This is avaliable on [Github](https://github.com/Shwvi/Notes-gitbook/tree/master). And I will be happy if you can make some issue or push, also you can star this repo if something I write will help you.
+This is avaliable on [Notes-gitbook](https://github.com/Shwvi/Notes-gitbook/tree/master). And I will be happy if you can make some issue or push 🙈, also you can star this repo if something I write will help you.
+
+Please indicate the source if authorized 🙊.
