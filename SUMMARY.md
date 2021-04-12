@@ -4,4 +4,7 @@
 
 ## 📖 Posts
 
-- [In 2021](posts/in-2021/README.md)
+### VScode Extensions
+
+- [Summary](/posts/vscode/readme.md)
+  - [Solve `code .` on mac](/posts/vscode/SolveCodeOnMac.md)
