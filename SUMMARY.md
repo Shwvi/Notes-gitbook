@@ -4,7 +4,6 @@
 
 ## 📖 Posts
 
-### VScode Extensions
-
-- [Summary](/posts/vscode/readme.md)
+- [VScode Extension]()
+  - [Summary](/posts/vscode/readme.md)
   - [Solve `code .` on mac](/posts/vscode/SolveCodeOnMac.md)
