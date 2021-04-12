@@ -4,6 +4,5 @@
 
 ## 📖 Posts
 
-- [VScode Extension]()
-  - [Summary](/posts/vscode/readme.md)
+- [VScode Extension](/posts/vscode/readme.md)
   - [Solve `code .` on mac](/posts/vscode/SolveCodeOnMac.md)
